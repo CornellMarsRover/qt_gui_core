@@ -3,7 +3,7 @@ project(qt_gui_cpp)
 
 find_package(ament_cmake REQUIRED)
 find_package(ament_cmake_python REQUIRED)
-find_package(Boost REQUIRED COMPONENTS filesystem system)
+#find_package(Boost REQUIRED COMPONENTS filesystem system)
 find_package(tinyxml_vendor REQUIRED)
 find_package(pluginlib REQUIRED)
 
